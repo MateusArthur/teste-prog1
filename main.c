@@ -1,8 +1,9 @@
 #include <stdio.h>
-
+#include "matematica.h"
 
 int main(){
-	printf("Hello World!\n");
-	printf("Xiximito\n");
+	int r = soma(1,3);
+	printf("R = %d\n", r);
+	printf("HNADUISDUIASDAHUDBSAFUDBAUSFDGSAFASFDGSAFYUSAGFUUSADF\n");
 	return 0;
 }
