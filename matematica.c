@@ -20,5 +20,8 @@ int multi(int a, int b)
 
 int quad(int a, int b)
 {
+	int res = a*a;
+	return res;
 
 }
+
