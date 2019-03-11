@@ -4,6 +4,7 @@
 int main(){
 	int r = soma(1,3);
 	printf("R = %d\n", r);
-	printf("HNADUISDUIASDAHUDBSAFUDBAUSFDGSAFASFDGSAFYUSAGFUUSADF\n");
+	int s = sub(4,3);
+	printf("S = %d\n", s);
 	return 0;
 }
